@@ -55,4 +55,6 @@ src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Jav
 - [Ewha Chain](https://linktr.ee/ewhachain) (Ewha Blockchain) 11th member
 
 ### 2021
-- AWS 
+- 2021.1 : AWS training 
+  - [AWS Cloud Practitioner Essentials](https://aws.amazon.com/ko/training/classroom/aws-cloud-practitioner-essentials/) 
+  - [AWS Technical Essentials](https://aws.amazon.com/ko/training/classroom/aws-technical-essentials/)
