@@ -41,20 +41,21 @@ src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Jav
 <img alt="Linux" src="https://camo.githubusercontent.com/e6e23929b59f0d903f97a4697f304f549be540b61a8283bc3d69aecfe5fdd8d4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666c6174266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/Linux-FCC624?style=flat&amp;logo=linux&amp;logoColor=black" style="max-width: 100%;">  <img alt="Git" src="https://camo.githubusercontent.com/8e7b90f62961f6df73ab269e33ed19fdb931af5a67088a66419d0778cd39c82d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742532302d2532334630353033332e7376673f6c6f676f3d676974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/2abee0f8be5b6c3b1f869693a0c6e82428fd06f9a61a826fa6761d301df1c94c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-black?style=flat-square&amp;logo=GitHub&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/be991a18525aab6c994ab98f755625e5536074989eb3d8a7a1c10b75c261e43d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536c61636b2d3461313534623f7374796c653d666c61742d737175617265266c6f676f3d536c61636b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Slack-4a154b?style=flat-square&amp;logo=Slack&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/bce476b2ed0407a01d32612cacf718fa67240c8a61c3e63db8dc16e877e51f3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4e6f74696f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Notion-black?style=flat-square&amp;logo=Notion&amp;logoColor=white" style="max-width: 100%;">
 
 ## 🐥 Projects
-### 2022
+### 2023
 #### Contributed
 - [Turtle Forest Game](https://github.com/yudility/TurtleForest) - Unity Developer
 - [Hospital manage](https://github.com/Sohyun-B/Hospital-Manage) - Web Frontend & php
+- [Ordinals medium](https://medium.com/ewha-chain/%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8-%ED%8A%B8%EB%9E%9C%EB%93%9C-2-%EC%8B%9C%EC%9E%A5-%EB%8F%99%ED%96%A5%EA%B3%BC-%EC%98%A4%EB%94%94%EB%84%90%EC%A6%88-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C-2b9a76146d92) - Publish 
 
-### 2021
+### 2022
 #### Contributed
 - [Tump Solana](https://github.com/TumpSolana/Web-App) - Web Frontend
 
 ## 🏃‍♀️ Experience
-### 2022
+### 2023
 - [Ewha Chain](https://linktr.ee/ewhachain) (Ewha Blockchain) 11th member
 
-### 2021
-- 2021.1 : AWS training 
+### 2022
+- 2022.1 : AWS training 
   - [AWS Cloud Practitioner Essentials](https://aws.amazon.com/ko/training/classroom/aws-cloud-practitioner-essentials/) 
   - [AWS Technical Essentials](https://aws.amazon.com/ko/training/classroom/aws-technical-essentials/)
