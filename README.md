@@ -27,7 +27,6 @@
 - Ewha Womans Univ., Seoul, Korea (Computer Science & Engineering)
 - contact : amanda1000@ewhain.net
 - develog : https://rose-my.tistory.com/
-- linkedin : [Kim Minyoung](https://www.linkedin.com/in/minyoungrosekim/)
 - instagram : [minyoungee](https://www.instagram.com/minyoungee/)
 
 ## 🐻 Tech Stack  
