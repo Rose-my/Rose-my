@@ -50,9 +50,10 @@ src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Jav
 #### Contributed
 - [Tump Solana](https://github.com/TumpSolana/Web-App) - Web Frontend
 
-## 🏃‍♀️ Experience
+## 🎀 Experience
 ### 2023
-- [Ewha Chain](https://linktr.ee/ewhachain) (Ewha Blockchain) 11th member
+-  [Sopt](https://www.sopt.org) - Web Frontend
+-  [Ewha Chain](https://linktr.ee/ewhachain) - (Ewha Blockchain) 11th member
 
 ### 2022
 - 2022.1 : AWS training 
