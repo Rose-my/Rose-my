@@ -28,6 +28,7 @@
 - contact : amanda1000@ewhain.net
 - develog : https://rose-my.tistory.com/
 - instagram : [minyoungee](https://www.instagram.com/minyoungee/)
+- linkedin : [Minyoung Rose Kim](https://www.linkedin.com/in/minyoungrosekim/)
 
 ## 🎁 Tech Stack  
 ####  Programming languages
