@@ -41,7 +41,7 @@
 ## 🍓 Projects
 ### 2023
 #### Contributed
-- 2023.11 ~ Present :[NonsoolMate](https://github.com/nonsoolmate)
+- 2023.11 ~ Present : [NonsoolMate](https://github.com/nonsoolmate)
   - Web Frontend
 - 2023.10 : [WatchaPedia](https://github.com/DO-SOPT-Seminar-Web-6)
   - Web Frontend
