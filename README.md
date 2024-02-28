@@ -43,8 +43,8 @@
 ## 🍓 Projects
 ### 2023
 #### Contributed
-- [NonsoolMate](https://github.com/yudility/TurtleForest) - Web Frontend
-- [WatchaPedia](https://github.com/yudility/TurtleForest) - Web Frontend
+- [NonsoolMate](https://github.com/nonsoolmate) - Web Frontend
+- [WatchaPedia](https://github.com/DO-SOPT-Seminar-Web-6) - Web Frontend
 - [Turtle Forest Game](https://github.com/yudility/TurtleForest) - Unity Developer
 - [Hospital manage](https://github.com/Sohyun-B/Hospital-Manage) - Web Frontend & php
 - [Ordinals medium](https://medium.com/ewha-chain/%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8-%ED%8A%B8%EB%9E%9C%EB%93%9C-2-%EC%8B%9C%EC%9E%A5-%EB%8F%99%ED%96%A5%EA%B3%BC-%EC%98%A4%EB%94%94%EB%84%90%EC%A6%88-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C-2b9a76146d92) - Publish 
