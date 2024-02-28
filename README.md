@@ -32,16 +32,19 @@
 
 ## 🎁 Tech Stack  
 ####  Programming languages
-JavaScript, Java, TypeScript
+![](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white) <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"><br>
+<img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"><img src="https://img.shields.io/badge/prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white">
+<img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"> <img src="https://img.shields.io/badge/stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=white"> <br> <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white">
+<img  alt="vercel" src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 
-####  Frontend
-<img alt="HTML" src="https://camo.githubusercontent.com/7947a9da4d569e7aa0264625efd420377b5466fd1620c5dd7cb525db2a358c91/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352532302d2532334533344632362e7376673f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&amp;logoColor=white" style="max-width: 100%;"> <img alt="CSS" src="https://camo.githubusercontent.com/c8733604360c25e4cf34c8415bf9093104206dccd164b2a1cd7d1e2711d4d4f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532532302d2532333135373242362e7376673f6c6f676f3d63737333266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&amp;logoColor=white" style="max-width: 100%;"> <img alt="React" src="https://camo.githubusercontent.com/5e59c12028cb67f45dfc48155ec7aef65cebfe983571d4cab2ea5b011613db6b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163744a732d3631444146423f6c6f676f3d7265616374266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&amp;logoColor=white" style="max-width: 100%;"> 
-####  Tools
-<img alt="Git" src="https://camo.githubusercontent.com/8e7b90f62961f6df73ab269e33ed19fdb931af5a67088a66419d0778cd39c82d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742532302d2532334630353033332e7376673f6c6f676f3d676974266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/2abee0f8be5b6c3b1f869693a0c6e82428fd06f9a61a826fa6761d301df1c94c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/GitHub-black?style=flat-square&amp;logo=GitHub&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/be991a18525aab6c994ab98f755625e5536074989eb3d8a7a1c10b75c261e43d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536c61636b2d3461313534623f7374796c653d666c61742d737175617265266c6f676f3d536c61636b266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Slack-4a154b?style=flat-square&amp;logo=Slack&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/bce476b2ed0407a01d32612cacf718fa67240c8a61c3e63db8dc16e877e51f3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d4e6f74696f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Notion-black?style=flat-square&amp;logo=Notion&amp;logoColor=white" style="max-width: 100%;">
+<br>
 
 ## 🍓 Projects
 ### 2023
 #### Contributed
+- [NonsoolMate](https://github.com/yudility/TurtleForest) - Web Frontend
+- [WatchaPedia](https://github.com/yudility/TurtleForest) - Web Frontend
 - [Turtle Forest Game](https://github.com/yudility/TurtleForest) - Unity Developer
 - [Hospital manage](https://github.com/Sohyun-B/Hospital-Manage) - Web Frontend & php
 - [Ordinals medium](https://medium.com/ewha-chain/%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8-%ED%8A%B8%EB%9E%9C%EB%93%9C-2-%EC%8B%9C%EC%9E%A5-%EB%8F%99%ED%96%A5%EA%B3%BC-%EC%98%A4%EB%94%94%EB%84%90%EC%A6%88-%ED%94%84%EB%A1%9C%ED%86%A0%EC%BD%9C-2b9a76146d92) - Publish 
