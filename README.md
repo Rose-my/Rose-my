@@ -39,9 +39,14 @@
 <img  alt="vercel" src="https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
 
 ## 🍓 Projects
+### 2024
+#### Contributed
+- 2024.02 ~ Present : [NonsoolMate](www.nonsoolmate.com)
+  - Web Frontend
+
 ### 2023
 #### Contributed
-- 2023.11 ~ Present : [NonsoolMate](https://github.com/nonsoolmate)
+- 2023.11 ~ 2024.01 : [NonsoolMate](https://github.com/nonsoolmate)
   - Web Frontend
 - 2023.10 : [WatchaPedia](https://github.com/DO-SOPT-Seminar-Web-6)
   - Web Frontend
@@ -57,8 +62,12 @@
   - Web Frontend
 
 ## 🎀 Experience
+### 2024
+-  2024.03 ~ Present : [Ceos19th](https://ceos-sinchon.com)
+   - Web Frontend
+
 ### 2023
--  2023.08 ~ 2024.01 : [Sopt](https://www.sopt.org)
+-  2023.08 ~ 2024.01 : [Sopt33th](https://www.sopt.org)
    - Web Frontend
 -  2022.08 ~ 2024.01 : [Ewha Chain](https://linktr.ee/ewhachain)
    - (Ewha Blockchain) 11th member
