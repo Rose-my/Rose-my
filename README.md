@@ -24,11 +24,11 @@
 </div>
 
 ## 👩🏻‍💻 About me
-- Ewha Womans Univ., Seoul, Korea (Computer Science & Engineering)
-- contact : amanda1000@ewha.ac.kr
-- develog : https://rose-my.tistory.com/
-- instagram : [minyoungee](https://www.instagram.com/minyoungee/)
-- linkedin : [Minyoung Rose Kim](https://www.linkedin.com/in/minyoungrosekim/)
+- Ewha Womans Univ, Seoul, Korea (Computer Science & Engineering)
+- [contact](amanda1000@ewha.ac.kr)
+- [develog](https://rose-my.tistory.com/)
+- [instagram](https://www.instagram.com/minyoungee/)
+- [linkedin](https://www.linkedin.com/in/minyoungrosekim/)
 
 ## 🎁 Tech Stack  
 ####  Programming languages
