@@ -39,10 +39,12 @@
 ## 🍓 Projects
 ### 2024
 #### Contributed
-- 2024.02 ~ Present : [NonsoolMate](www.nonsoolmate.com)
+- 2024.02 ~ Present : [NonsoolMate](https://www.nonsoolmate.com/)
   - Web Frontend
 - 2024.03 ~ Present : [LostButFound](https://github.com/2024EwhaGraduationProject)
   - Web Frotend & Cloud Vision , Generative AI
+- 2024.03 ~ Present : [Lubee]
+  - Web Frontend 
 
 ### 2023
 #### Contributed
