@@ -65,7 +65,7 @@
 
 ## 🎀 Experience
 ### 2024
--  2024.03 ~ Present : [Ceos19th](https://ceos-sinchon.com)
+-  2024.03 ~ 2024.08 : [Ceos19th](https://ceos-sinchon.com)
    - Web Frontend
 
 ### 2023
