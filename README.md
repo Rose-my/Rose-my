@@ -23,7 +23,7 @@
 
 ## 👩🏻‍💻 About me
 - Ewha Womans Univ, Seoul, Korea (Computer Science & Engineering)
-- [contact](amanda1000@ewha.ac.kr)
+- [contact] rosieminyoung@gmail.com
 - [develog](https://rose-my.tistory.com/)
 - [instagram](https://www.instagram.com/minyoungee/)
 - [linkedin](https://www.linkedin.com/in/minyoungrosekim/)
