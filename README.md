@@ -26,7 +26,7 @@
 - [contact] rosieminyoung@gmail.com
 - [develog](https://rose-my.tistory.com/)
 - [instagram](https://www.instagram.com/minyoungee/)
-- [linkedin](https://www.linkedin.com/in/minyoungrosekim/)
+- [linkedin](www.linkedin.com/in/rose-minyoung)
 
 ## 🎁 Tech Stack  
 ####  Programming languages
