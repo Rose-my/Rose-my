@@ -43,7 +43,7 @@
   - Web Frontend
 - 2024.03 ~ Present : [C.lova](https://github.com/2024EwhaGraduationProject)
   - Web Frotend & Cloud Vision , Generative AI
-- 2024.03 ~ 2024.08 : [Lubee](https://www.lubee.site)
+- 2024.03 ~ 2024.08 : [Lubee](https://github.com/couplelog/lubee-client)
   - Web Frontend 
 
 ### 2023
